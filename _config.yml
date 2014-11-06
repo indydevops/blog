@@ -1,0 +1,14 @@
+# Site settings
+title: Indy DevOps AWS re:Invent 2014
+email: cchalfant@leafsoftaresolutions.com
+description: > # this means to ignore newlines until "baseurl:"
+  Live blogging AWS re:Invent 2014
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://indydevops-blog.s3-website-us-east-1.amazonaws.com" # the base hostname & protocol for your site
+twitter_username: chalfant
+github_username:  chalfant
+
+# Build settings
+markdown: kramdown
+
+permalink: pretty
