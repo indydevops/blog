@@ -9,6 +9,8 @@ Slides for sessions are on [slideshare](http://www.slideshare.net/AmazonWebServi
 
 Podcasts for sessions are on [iTunes](https://itunes.apple.com/us/podcast/aws-re-invent-2014/id941313180?mt=2&ign-mpt=uo%3D2).
 
+Videos for sessions are on [YouTube](https://www.youtube.com/user/AmazonWebServices/playlists).
+
 Andrew's Takeaways
 ------------------
 1. If at all possible, have AWS handle your edge. For example using Cognito, Javascript aws-sdk talking to SQS allows you to reliably get your traffic into Amazon with nearly unlimited scalability. The use of the javascript SDK to allow client devices to interact with AWS directly is very prevalent.
